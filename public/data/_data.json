@@ -1,0 +1,8 @@
+{
+ "name": "new_york",
+ "children": [
+ {"name": "Honda", "size": 9},
+{"name": "Volkswagen", "size": 19},
+{"name": "Toyota", "size": 3}
+ ]
+}
